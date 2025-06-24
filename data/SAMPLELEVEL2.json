@@ -2,9 +2,9 @@
     "id": 117,
     "name": "SL80",
     "author": "Etzer",
-    "creators": [],
-    "verifier": "Etzer",
-    "verification": "",
+    "creators": [SleyGD],
+    "verifier": "sink",
+    "verification": "https://youtu.be/2Qd2Xc-F8Y0",
     "percentToQualify": "55",
     "password": "Free To Copy",
     "records": [
